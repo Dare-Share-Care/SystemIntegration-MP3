@@ -13,7 +13,7 @@ This application is a program meant for processing and handling customer complai
 
 The application makes use of several microservices, these services can be found here:
 
-- [OrderService](https://github.com/Dare-Share-Care/MP3-OrderService).
+- [OrderService](https://github.com/Dare-Share-Care/MP3-OrderService)
 - [InventoryService](https://github.com/Dare-Share-Care/MP3-InventoryService)
 - [SupplierService](https://github.com/Dare-Share-Care/MP3-SupplierService)
 
